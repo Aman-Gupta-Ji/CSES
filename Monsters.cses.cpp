@@ -1,5 +1,5 @@
 //link : https://cses.fi/problemset/task/1194/
-//status: TLE
+//status: ACCEPTED
 
 #include<bits/stdc++.h>
 using namespace std;
